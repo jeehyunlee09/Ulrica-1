@@ -1,7 +1,4 @@
 import streamlit as st
-st.title("이지현의 첫 웹 앱!")
-st.write('안녕하세요! 반갑습니다 :)')
-import streamlit as st
 
 # 1. 페이지 설정 (아이콘, 타이틀)
 st.set_page_config(page_title="MBTI 진로 탐색 🚀", page_icon="✨", layout="wide")
